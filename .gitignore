@@ -1,0 +1,29 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*.lock.hcl
+
+# Crash log files
+*.log
+
+# Ignore any .tfvars teste files that are generated automatically for each Terraform run. Most
+# .tfvars files are managed as part of configuration and so should be included in
+# version control.
+#
+# example.tfvars
+
+# Ignore override files as they are usually used to override resources locally and so
+# are not checked i
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+*.out
+*.backup
+*key
+*.pub
+azure-key
