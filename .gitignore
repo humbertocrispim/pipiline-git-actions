@@ -6,7 +6,7 @@
 *.tfstate.*
 *.lock.hcl
 
-# Crash log files
+# Crash log filesrr
 *.log
 
 # Ignore any .tfvars teste files that are generated automatically for each Terraform run. Most
